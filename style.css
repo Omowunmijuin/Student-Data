@@ -7,7 +7,7 @@
     text-align: center;
     margin: 1rem;
     padding: 1rem;
-    font-weigth: bold;
+    font-weight: bold;
   }
   h3 {
     text-align: center;
@@ -16,7 +16,7 @@
   table, th, td {
     border: 1px solid black;
     padding: 1;
-    spacing: 5;
+    word-spacing: 5;
     text-align: center;
     margin-bottom: 30px;
   }
